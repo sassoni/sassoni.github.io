@@ -19,7 +19,7 @@ body {
     margin: 0;
     overflow-y: scroll;
     color: #333333;
-    font-family: "Century Gothic", "URW Gothic L", "Raleway", sans-serif;
+    font-family: "Century Gothic", "URW Gothic L", /*"Raleway",*/ sans-serif;
     /* google fonts */
 	/*
 	font-family: "Quicksand", sans-serif;
@@ -74,7 +74,7 @@ h1 {
     border:0;
     padding:0;
     display:inline;
-	font-size:250%;
+	font-size:260%;
 }
 
 .social_icons_wrapper {
@@ -139,7 +139,7 @@ h1 {
 
 .photo { 
     width:35%;
-    max-width:220px; 
+    max-width:240px; 
     float:right; 
     height:auto; 
     padding-top:10px;
